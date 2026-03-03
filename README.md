@@ -1,15 +1,15 @@
-# (Holloway) Chew, Kean Ho's Visuals Arts Service Product Trademarks Logo 493x312 | (Holloway) Chew, Kean Ho's Visuals
+# (Holloway) Chew, Kean Ho's Creative Visuals Service Product Trademark Logo 493x312 | (Holloway) Chew, Kean Ho's Creative Visuals
 
 [![logo](/Pictures/banner_493x312.svg)](#)
 
-The (Holloway) Chew, Kean Ho Visuals Arts Service Product Trademarks Logo. They
-published clear trademark guideline and supplied the required material files for
-it here. The preferred version is `.svg` which has non-destructive scale up &
-down properties and can be converted into any rasterized images (e.g. `jpeg`,
-`webp`, `avif`, etc).
+The (Holloway) Chew, Kean Ho's Creative Visuals Service Product Trademark Logo.
+They published clear trademark guideline and supplied the required material
+files for it here. The preferred version is `.svg` which has non-destructive
+scale up & down properties and can be converted into any rasterized images
+(e.g. `jpeg`, `webp`, `avif`, etc).
 
-This project creates (Holloway) Chew, Kean Ho's Visuals Arts Service Product
-Trademarks Logo specifically for 493x312 size. This engineering specification is
+This project creates (Holloway) Chew, Kean Ho's Creative Visuals Service Product
+Trademark Logo specifically for 493x312 size. This engineering specification is
 mainly for Microsoft Software Installer (`.msi`) packaging deployment.
 
 
@@ -98,7 +98,7 @@ Since (Holloway) Chew, Kean Ho published its brand and trademark guideline,
 * Standard Global Trademark Laws
 * Local Trademark Laws
 
-While not specified by (Holloway) Chew, Kean Ho, please ensure the outputs are
+While not specified by (Holloway) Chew, Kean Ho; please ensure the outputs are
 also web ready. Refer:
 
 * https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/How_to/Define_app_icons
@@ -181,7 +181,7 @@ Unless otherwise specified in writing, you **MUST** attribute back to the
 creator(s) as follows:
 
 ```
-Title: (Holloway) Chew, Kean Ho's Visuals Arts Service Product Trademarks Logo 493x312
+Title: (Holloway) Chew, Kean Ho's Creative Visuals Service Product Trademark Logo 493x312
 Creators: (Holloway) Chew, Kean Ho
 Contact: hello@chewkeanho.com
 SKU: chewkeanho-visuals-trademarks-chewkeanhovisuals-493x312
